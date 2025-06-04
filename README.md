@@ -1,2 +1,1 @@
-# Real-time Attendance Monitoring Tool
- 
+# Real-time Attendance Monitoring 
